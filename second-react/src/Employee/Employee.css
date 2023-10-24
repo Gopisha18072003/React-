@@ -1,0 +1,15 @@
+.employee {
+    background-color: rgb(219, 200, 237);
+    width: 40%;
+    margin: 2rem auto;
+    border: 1px solid rgb(131, 2, 251);
+    padding: 1.5rem;
+    box-shadow: 0 2px 3px rgb(180, 99, 255);
+    text-align: center;
+}
+
+strong {
+    display: block;
+    padding: 1rem 0;
+    cursor: pointer;
+}
